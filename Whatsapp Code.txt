@@ -12,3 +12,4 @@
 8. How do you implement an interface and call its methods?
 9. What is the use of “REF” & “OUT” keyword in C#?
 10. How will you use “params” & “dynamic” in method parameters?
+11. What is selenium?
