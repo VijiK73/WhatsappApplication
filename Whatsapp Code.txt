@@ -1,0 +1,14 @@
+1. What are types in C# – Value & Reference types?
+2. What are access modifiers in C#?
+3. What are the basic OOPs concepts in C#?
+    a. class (Abstract, partial, sealed, static, etc.)
+    b. enum
+    c. struct
+    d. interface
+4. What do you know about Partial types and Partial methods?
+5. What is the use of ‘typeof’ keyword in C#?
+6. How do you call the multiple constructors of a class with single object creation?
+7. How to debug a running C# program?
+8. How do you implement an interface and call its methods?
+9. What is the use of “REF” & “OUT” keyword in C#?
+10. How will you use “params” & “dynamic” in method parameters?
